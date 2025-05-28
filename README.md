@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey there
 
-<!--
-**mbarbee3/mbarbee3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Human Systems Engineering at ASU.  
+Mostly just exploring ideas and learning code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Projects & Interests
+- 🔁 Automating repetitive tasks  
+- 🧪 Tinkering with code, sensors, and spreadsheets  
+- 📊 Making dashboards that people actually use
+
+---
+
+### 📍 Based in Arizona  
+🧱 Sometimes building things. Mostly breaking them.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbarbee3&theme=cobalt&hide_progress=true" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mbarbee3&theme=cobalt&show_icons=true" alt="GitHub Stats" />
+</p>
